@@ -1,0 +1,30 @@
+# Credenciales y archivos sensibles
+.env
+*.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de caché y temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Bases de datos SQLite locales
+*.db
+*.sqlite3
+talentcore.db
+
+# Archivos de IDE y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
