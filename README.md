@@ -4,6 +4,15 @@ Este repositorio contiene una orquestación completa de agentes de Inteligencia 
 
 ---
 
+## 🌐 Despliegue en Vivo (Render)
+
+El microservicio generado está desplegado y disponible públicamente en Render:
+
+- 🚀 **Documentación interactiva de la API (Swagger UI):**  
+  [https://orquesta-de-agentes-3.onrender.com/docs](https://orquesta-de-agentes-3.onrender.com/docs)
+
+---
+
 ## 👥 Roles de los Agentes
 
 1. **`00_test_conexion.py`**: Comprobación inicial de conectividad con el proveedor LLM (Groq).
